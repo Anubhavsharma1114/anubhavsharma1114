@@ -59,3 +59,8 @@ A footnote can also have multiple lines[^2].
 ## Links
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+
+```
+let message = 'Hello world';
+alert(message);
+```
