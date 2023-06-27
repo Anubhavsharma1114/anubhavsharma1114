@@ -21,3 +21,10 @@ Hi, I'm Anubhav. You might recognize me as GitHub's mascot.
 
 
 </details>
+
+---
+If we pull together and commit ourselves, then we can push through anything.
+
+## About me
+
+<!-- TO DO: add more details about me later -->
