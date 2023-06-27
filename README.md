@@ -9,9 +9,15 @@
 ## About me
 
 Hi, I'm Anubhav. You might recognize me as GitHub's mascot.
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1| java          |
 |     2| mysql         |
 |     3| docker        |
 
+
+</details>
